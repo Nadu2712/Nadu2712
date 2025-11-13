@@ -40,6 +40,20 @@ A passionate and results-driven **Software Engineer** from Sri Lanka, specializi
 
 ---
 
+## 🔥 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Nadu2712">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadu2712&theme=github-dark&hide_border=true&area=true" />
+  </a>
+</p>
+
+## 🏆 GitHub Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-3-2ea44f?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Achievement-orange?style=for-the-badge)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-blue?style=for-the-badge)
+
 ## 🔗 Let's Connect
 
 <p align="left">
