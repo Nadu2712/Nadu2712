@@ -28,15 +28,12 @@ A passionate and results-driven **Software Engineer** from Sri Lanka, specializi
 `AWS` `EC2` `CI/CD Pipelines` `Linux` `NGINX`
 
 **Tools & Practices:**
-`Git` `Clean Code` `Agile Methodologies` `Performance Optimization`
+`Git` `Clean Code` `Agile Methodologies` `Performance Optimization`, `JIRA`, `SonarQube`
 
 ## 📈 GitHub Stats
 
-(You can add your GitHub stats here. A popular way is to use a service like [github-readme-stats](https://github.com/Nadu2712/github-readme-stats))
-
 <p align="center">
   <a href="https://github.com/Nadu2712">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nadu2712&show_icons=true&theme=radical&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadu2712&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
